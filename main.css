@@ -6,3 +6,7 @@ body {
 	text-align: center;
 	color: darkgreen;
 }	
+
+#b {
+	border: 1px solid green;
+}
