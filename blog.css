@@ -4,4 +4,13 @@ body{
 	font-family: Courier New, Courier;
 }
 
+#btn {
+  background-color: black; /* button color */
+  color: white; /* text color */
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
 
