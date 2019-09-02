@@ -6,7 +6,7 @@ body{
 
 #btn {
   background-color: black; /* button color */
-  color: brightpink; /* text color */
+  color: lightpink; /* text color */
   font-family: Courier New, Courier;
   padding: 16px;
   font-size: 16px;
@@ -14,5 +14,3 @@ body{
   cursor: pointer;
   font-weight: bold;
 }
-
-
