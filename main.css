@@ -11,6 +11,10 @@ body {
 	align: left;
 }
 
+#c {
+	align: right;
+}
+
 #dropbtn {
   background-color: darkgreen; /* button color */
   color: white; /* text color */
